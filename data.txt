@@ -1,0 +1,57 @@
+https://api.openweathermap.org/data/2.5/weather?lat=23.58&lon=72.36&appid=cb777e9b5a4b322ae0b5ff6480a82a72
+
+api.openweathermap.org/data/2.5/weather?q=pune&appid=cb777e9b5a4b322ae0b5ff6480a82a72
+
+{
+"coord": {
+"lon": 73.8553,
+"lat": 18.5196
+},
+
+"weather": [
+{
+"id": 803,
+"main": "Clouds",
+"description": "broken clouds",
+"icon": "04d"
+}
+],
+
+"base": "stations",
+
+"main": {
+"temp": 289.45,
+"feels_like": 288.7,
+"temp_min": 289.45,
+"temp_max": 289.45,
+"pressure": 1017,
+"humidity": 60,
+"sea_level": 1017,
+"grnd_level": 953
+},
+
+"visibility": 10000,
+
+"wind": {
+"speed": 1.32,
+"deg": 273,
+"gust": 1.37
+},
+
+"clouds": {
+"all": 77
+},
+
+"dt": 1706753714,
+
+"sys": {
+"country": "IN",
+"sunrise": 1706751496,
+"sunset": 1706792261
+},
+
+"timezone": 19800,
+"id": 1259229,
+"name": "Pune",
+"cod": 200
+}
